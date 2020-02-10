@@ -1,0 +1,81 @@
+﻿@model TestExecution.Models.ApiCallHomeModel
+
+@{
+    ViewBag.Title = "Performance Tool";
+}
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+    //$(document).ready(function () {
+        //your code here
+    //    alert("Привет");
+    //});
+    var t = setInterval(oneSecondFunction, 2000);
+
+    function oneSecondFunction() {
+        // stuff you want to do every second
+        //alert("Привет");
+        $.ajax({
+            url: "Home/FlyDataPartial",
+            type: "get",
+            data: $("form").serialize(), //if you need to post Model data, use this
+            success: function (result) {
+                $("#partial").html(result);
+            }
+        });
+    }
+
+    //$(document).ready(function () {
+    //    $("#button").click(function (e) {
+        //your code here
+    //        $.ajax({
+    //            url: "Home/GetData",
+   //             type: "get",
+   //             data: $("form").serialize(), //if you need to post Model data, use this
+   //             success: function (result) {
+   //                 $("#partial").html(result);
+   //             }
+   //         });
+   //     });
+   // });
+</script>
+
+<div class="jumbotron">
+    @using (Html.BeginForm("RunAPICalls", "Home", FormMethod.Post))
+    {
+            <table width="100%">
+                <tr>
+                    <td width="10%">API Calls</td>
+                    <td><input name="UnitTotalAmmount" class="form-control" placeholder="Total Amount of Units" aria-label="Total Amount of Units"></td>
+                    <td><input name="LineAmmount" class="form-control input-width50" placeholder="Units in interval" aria-label="Units in interval"></td>
+                    <td><input name="ApiCallInterval" class="form-control input-width50" placeholder="Api call interval" aria-label="Api call interval"></td>
+                    <td>
+                        <button id='button' type="submit" class="btn btn-primary @ViewBag.RunAPICallsDisabled">Launch &raquo;</button>
+                        <!-- <a href='@Url.Content("~/Home/Index/RunAPICalls")' type="submit" class="btn btn-primary @ViewBag.RunAPICallsDisabled">Launch &raquo;</a> -->
+                    </td>
+                    <td><a href='@Url.Content("~/Home/Index/StopAPICalls")' class="btn btn-primary @ViewBag.StopAPICallsDisabled">Stop &raquo;</a></td>
+
+                    <!--
+                    <form class="form-inline">
+                        <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+                        <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+                    </form>
+                        -->
+                </tr>
+            </table>
+    }
+    <div id="partial">
+        @Html.Partial("FlyDataPartial")
+    </div>
+</div>
+
+<!--
+<div class="row">
+    <div class="col-md-4">
+        <p><a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301865">Learn more &raquo;</a></p>
+        <button type="button" onclick="location.href='@Url.Action("ViewDemo1","Demo1")'">Register</button>
+        <button type="button" onclick="location.href='@Url.Action("Index", "Home")'">@ViewBag.ButtonName</button>
+        <button type="button" onclick="location.href='@Url.Action("DoSomething", "Home")'">DoSomething</button>
+    </div>
+</div>
+-->

@@ -1,0 +1,31 @@
+﻿@model TestExecution.Models.FlyDataModel
+@{
+    Layout = null;
+}
+
+@{
+    if (Model != null)
+    {
+        <div>
+            <p>General Cpu Usge: @Model.CpuUsage %</p>
+            <p>Available RAM: @Model.AvailableRAM MB</p>
+        </div>
+
+        if (Model.ShowApiCallDetails)
+        {
+            <h2>Details of lines </h2>
+            <table class="table table-responsive table-hover">
+                <tr>
+                    <th>Total # of units executed</th>
+                    <th>Average time for request/response</th>
+                    <th>Average time for unit processing</th>
+                </tr>
+                <tr>
+                    <td>@Model.TotalUnitsExecuted</td>
+                    <td>@Model.ApiCallAverageTime sec</td>
+                    <td>@Model.UnitProcessingAverageTime sec</td>
+                </tr>
+            </table>
+        }
+    }
+}

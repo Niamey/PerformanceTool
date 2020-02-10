@@ -1,0 +1,407 @@
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\ApplicationInsights.config
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\TestExecution.dll.config
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\TestExecution.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\TestExecution.pdb
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\roslyn\csc.exe
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\roslyn\csc.exe.config
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\roslyn\csc.rsp
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\roslyn\csi.exe
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\roslyn\csi.exe.config
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\roslyn\csi.rsp
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\roslyn\System.AppContext.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\roslyn\System.Collections.Immutable.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\roslyn\System.Console.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\roslyn\System.Globalization.Calendars.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\roslyn\System.IO.Compression.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\roslyn\System.IO.FileSystem.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\roslyn\System.Net.Http.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\roslyn\System.Net.Sockets.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\roslyn\System.Reflection.Metadata.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\roslyn\System.ValueTuple.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\roslyn\System.Xml.XPath.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\roslyn\vbc.exe
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\roslyn\vbc.exe.config
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\roslyn\vbc.rsp
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\roslyn\VBCSCompiler.exe
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\roslyn\VBCSCompiler.exe.config
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\Microsoft.Win32.Primitives.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\netstandard.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.AppContext.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Collections.Concurrent.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Collections.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Collections.NonGeneric.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Collections.Specialized.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.ComponentModel.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.ComponentModel.EventBasedAsync.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.ComponentModel.Primitives.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.ComponentModel.TypeConverter.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Console.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Data.Common.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Diagnostics.Contracts.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Diagnostics.Debug.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Diagnostics.FileVersionInfo.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Diagnostics.Process.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Diagnostics.StackTrace.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Diagnostics.TextWriterTraceListener.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Diagnostics.Tools.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Diagnostics.TraceSource.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Diagnostics.Tracing.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Drawing.Primitives.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Dynamic.Runtime.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Globalization.Calendars.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Globalization.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Globalization.Extensions.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.IO.Compression.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.IO.Compression.ZipFile.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.IO.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.IO.FileSystem.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.IO.FileSystem.DriveInfo.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.IO.FileSystem.Primitives.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.IO.FileSystem.Watcher.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.IO.IsolatedStorage.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.IO.MemoryMappedFiles.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.IO.Pipes.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.IO.UnmanagedMemoryStream.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Linq.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Linq.Expressions.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Linq.Parallel.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Linq.Queryable.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Net.Http.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Net.NameResolution.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Net.NetworkInformation.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Net.Ping.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Net.Primitives.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Net.Requests.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Net.Security.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Net.Sockets.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Net.WebHeaderCollection.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Net.WebSockets.Client.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Net.WebSockets.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.ObjectModel.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Reflection.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Reflection.Extensions.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Reflection.Primitives.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Resources.Reader.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Resources.ResourceManager.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Resources.Writer.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Runtime.CompilerServices.VisualC.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Runtime.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Runtime.Extensions.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Runtime.Handles.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Runtime.InteropServices.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Runtime.Numerics.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Runtime.Serialization.Formatters.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Runtime.Serialization.Json.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Runtime.Serialization.Primitives.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Runtime.Serialization.Xml.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Security.Claims.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Security.Cryptography.Algorithms.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Security.Cryptography.Csp.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Security.Cryptography.Encoding.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Security.Cryptography.Primitives.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Security.Cryptography.X509Certificates.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Security.Principal.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Security.SecureString.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Text.Encoding.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Text.Encoding.Extensions.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Text.RegularExpressions.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Threading.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Threading.Overlapped.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Threading.Tasks.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Threading.Tasks.Parallel.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Threading.Thread.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Threading.ThreadPool.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Threading.Timer.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.ValueTuple.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Xml.ReaderWriter.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Xml.XDocument.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Xml.XmlDocument.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Xml.XmlSerializer.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Xml.XPath.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Xml.XPath.XDocument.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\Antlr3.Runtime.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\Microsoft.AI.DependencyCollector.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\Microsoft.AI.Web.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\Microsoft.AI.WindowsServer.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\Microsoft.ApplicationInsights.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\Microsoft.Web.Infrastructure.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\Newtonsoft.Json.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Buffers.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Memory.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Numerics.Vectors.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Web.Helpers.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Web.Mvc.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Web.Optimization.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Web.Razor.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Web.WebPages.Deployment.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Web.WebPages.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Web.WebPages.Razor.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\WebGrease.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\Microsoft.AI.DependencyCollector.xml
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\Microsoft.AI.PerfCounterCollector.xml
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\Microsoft.AI.Web.xml
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\Microsoft.AI.WindowsServer.xml
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\Microsoft.ApplicationInsights.xml
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\Newtonsoft.Json.xml
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Buffers.xml
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Memory.xml
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Numerics.Vectors.xml
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Web.Helpers.xml
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Web.Mvc.xml
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Web.Razor.xml
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Web.WebPages.xml
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Web.WebPages.Deployment.xml
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Web.WebPages.Razor.xml
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\System.Web.Optimization.xml
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\Antlr3.Runtime.pdb
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\obj\Debug\WebUI.csprojAssemblyReference.cache
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\obj\Debug\WebUI.csproj.CoreCompileInputs.cache
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\obj\Debug\WebUI.csproj.CopyComplete
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\obj\Debug\TestExecution.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\obj\Debug\TestExecution.pdb
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\ServiceClient.dll
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\ServiceClient.pdb
+E:\Job1\SoftServe\Panasonic\Deployment And Automation\performancetest-wip\WebUI\bin\ServiceClient.dll.config
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\ApplicationInsights.config
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\TestExecution.dll.config
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\TestExecution.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\TestExecution.pdb
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\roslyn\csc.exe
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\roslyn\csc.exe.config
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\roslyn\csc.rsp
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\roslyn\csi.exe
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\roslyn\csi.exe.config
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\roslyn\csi.rsp
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\roslyn\System.AppContext.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\roslyn\System.Console.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\roslyn\System.IO.Compression.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\roslyn\System.Net.Http.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\roslyn\System.Net.Sockets.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\roslyn\System.ValueTuple.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\roslyn\vbc.exe
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\roslyn\vbc.exe.config
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\roslyn\vbc.rsp
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\Microsoft.Win32.Primitives.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\netstandard.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.AppContext.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Collections.Concurrent.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Collections.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Collections.NonGeneric.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Collections.Specialized.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.ComponentModel.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.ComponentModel.Primitives.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Console.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Data.Common.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Diagnostics.Contracts.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Diagnostics.Debug.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Diagnostics.Process.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Diagnostics.StackTrace.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Diagnostics.Tools.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Diagnostics.TraceSource.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Diagnostics.Tracing.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Drawing.Primitives.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Dynamic.Runtime.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Globalization.Calendars.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Globalization.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Globalization.Extensions.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.IO.Compression.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.IO.Compression.ZipFile.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.IO.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.IO.FileSystem.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.IO.IsolatedStorage.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.IO.Pipes.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Linq.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Linq.Expressions.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Linq.Parallel.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Linq.Queryable.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Net.Http.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Net.NameResolution.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Net.NetworkInformation.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Net.Ping.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Net.Primitives.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Net.Requests.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Net.Security.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Net.Sockets.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Net.WebHeaderCollection.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Net.WebSockets.Client.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Net.WebSockets.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.ObjectModel.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Reflection.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Reflection.Extensions.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Reflection.Primitives.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Resources.Reader.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Resources.ResourceManager.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Resources.Writer.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Runtime.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Runtime.Extensions.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Runtime.Handles.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Runtime.InteropServices.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Runtime.Numerics.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Runtime.Serialization.Json.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Security.Claims.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Security.Cryptography.Csp.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Security.Principal.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Security.SecureString.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Text.Encoding.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Text.Encoding.Extensions.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Text.RegularExpressions.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Threading.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Threading.Overlapped.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Threading.Tasks.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Threading.Thread.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Threading.ThreadPool.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Threading.Timer.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.ValueTuple.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Xml.ReaderWriter.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Xml.XDocument.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Xml.XmlDocument.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Xml.XmlSerializer.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Xml.XPath.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Xml.XPath.XDocument.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\Antlr3.Runtime.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\Microsoft.AI.Web.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\Newtonsoft.Json.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\ServiceClient.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Buffers.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Memory.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Numerics.Vectors.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Web.Helpers.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Web.Mvc.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Web.Optimization.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Web.Razor.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Web.WebPages.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\WebGrease.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\ServiceClient.pdb
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\ServiceClient.dll.config
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\Microsoft.AI.PerfCounterCollector.xml
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\Microsoft.AI.Web.xml
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\Newtonsoft.Json.xml
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Buffers.xml
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Memory.xml
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Numerics.Vectors.xml
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Web.Helpers.xml
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Web.Mvc.xml
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Web.Razor.xml
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Web.WebPages.xml
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\System.Web.Optimization.xml
+C:\Users\kornievao.AREON\Documents\111\WebUI\bin\Antlr3.Runtime.pdb
+C:\Users\kornievao.AREON\Documents\111\WebUI\obj\Debug\WebUI.csprojAssemblyReference.cache
+C:\Users\kornievao.AREON\Documents\111\WebUI\obj\Debug\WebUI.csproj.CopyComplete
+C:\Users\kornievao.AREON\Documents\111\WebUI\obj\Debug\TestExecution.dll
+C:\Users\kornievao.AREON\Documents\111\WebUI\obj\Debug\TestExecution.pdb

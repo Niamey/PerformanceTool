@@ -1,0 +1,35 @@
+﻿
+@{
+    ViewBag.Title = "ShowPtLog";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>ShowPtLog</h2>
+
+<table class="table table-bordered table-responsive table-hover">
+    <tr><th>PtLog</th></tr>
+    <tbody>
+        @{
+            if (ViewData["PtLogs"] != null)
+            {
+                if (ViewData.Values != null && ViewData.Values.Count() > 0)
+                {
+                    foreach (var item in ViewData["PtLogs"] as List<string>)
+                    {
+                        <tr>
+                            <td style="border:1px solid black">
+                                @item;
+                                <fieldset>
+                                    <b style="text-align:center; width:22%; font-family:'Agency FB'; font-size:small; background-color:#C8E6C9; color:red">
+
+                                    </b>
+                                </fieldset>
+                            </td>
+                        </tr>
+                    }
+                }
+            }
+        }
+    </tbody>
+</table>
+

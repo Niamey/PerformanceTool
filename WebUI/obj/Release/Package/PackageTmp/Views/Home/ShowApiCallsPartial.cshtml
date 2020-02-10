@@ -1,0 +1,24 @@
+﻿@model IList<TestExecution.Models.ApiCallLine>
+
+<h2>Details of lines </h2>
+
+<table class="table table-responsive table-hover">
+    <tr>
+        <th>Line Name</th>
+        <th>Succeed</th>
+        <th>Total Request Ammount</th>
+        <th>Failed Request Ammount</th>
+    </tr>
+    @if (Model != null)
+    {
+        foreach (var d in Model)
+        {
+            <tr>
+                <td>@d.LineName</td>
+                <td>@d.IsSucceed</td>
+                <td>@d.TotalRequestAmmount</td>
+                <td>@d.FailedRequestAmmount</td>
+            </tr>
+        }
+    }
+</table>
